@@ -1,8 +1,7 @@
-### Hi there I'm Erfan Mosaddeghi👋
-## I'm Python Developer
+## Hi there I'm Erfan Mosaddeghi👋
+> I'm Python Developer
 <!--
 **erfanmosaddeghi/erfanmosaddeghi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 -->
 <h1 align="center">Welcome to my page 👋</h1>
 <p>
