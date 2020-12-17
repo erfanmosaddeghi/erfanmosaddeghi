@@ -1,5 +1,7 @@
 ## Hi there I'm Erfan Mosaddeghi👋
-> I'm Python Developer
+> I'm Python Developer!
+> passionate learner
+> interested to data science and machine learning :)
 <!--
 **erfanmosaddeghi/erfanmosaddeghi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -25,7 +27,7 @@
   <a href="http://instagram.com/efi.py" target="blank">
     <img align="left" alt="Erfan Mosaddeghi | Instagram" width="21px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />
   </a>
-    <a href="http://linkedin.com/erfan-mosaddeghi-56862918a" target="blank">
+    <a href="https://www.linkedin.com/in/erfan-mosaddeghi-56862918a/" target="blank">
     <img align="left" alt="Erfan Mosaddeghi | Instagram" width="21px" src="https://image.flaticon.com/icons/svg/733/733561.svg" />
   </a>
   <br />
@@ -34,6 +36,8 @@
 ### 🏠 [Homepage](https://github.com/erfanmosaddeghi/erfanmosaddeghi#readme)
 - 🔭 I’m currently working on Home :)
 - 🌱 I’m currently learning Python
+- 🔭 Learn machine learning
+- 🌱 Learn javascript .. not important :)
 
 
 
