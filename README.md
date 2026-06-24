@@ -1,109 +1,72 @@
 <div align="center">
 
-# Hi, I’m Erfan (efi.py) 👋
-Backend Engineer • .NET / C# • DDD • Microservices • DevOps
+# 🚀 Hi, I'm Erfan (efi.py)
+### Backend Architect | .NET Specialist | DevOps Enthusiast
 
-<a href="https://erfanmosaddeghi.ir"><img src="https://img.shields.io/badge/Website-erfanmosaddeghi.ir-111?style=for-the-badge" /></a>
-<a href="mailto:erfan.mosaddeghi@gmail.com"><img src="https://img.shields.io/badge/Email-erfan.mosaddeghi%40gmail.com-111?style=for-the-badge" /></a>
+[![Website](https://img.shields.io/badge/Portfolio-erfanmosaddeghi.ir-0078d4?style=for-the-badge&logo=microsoft-edge&logoColor=white)](https://erfanmosaddeghi.ir)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erfan.mosaddeghi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile) 
 
-<img src="https://komarev.com/ghpvc/?username=erfanmosaddeghi&style=flat&color=0d1117" />
+<br />
+
+"Building resilient, scalable, and domain-driven systems that solve real-world complex problems."
+
+<img src="https://komarev.com/ghpvc/?username=erfanmosaddeghi&style=flat-square&color=blue" alt="views" />
 
 </div>
 
 ---
 
-## About
-- Backend-focused engineer building scalable systems with Clean Architecture and Domain-Driven Design
-- Experienced with Modular Monolith and Microservices patterns
-- Strong in API design, integration, and performance-minded data access
-- DevOps-friendly mindset: Docker-first, automation, observability, and reliable deployments
+## 👨‍💻 About Me
+I am a **Senior Backend Engineer** with a deep passion for **Domain-Driven Design (DDD)** and **Clean Architecture**. My expertise lies in crafting robust distributed systems and modular monoliths that are not just functional, but maintainable and high-performing.
+
+- 🏗️ **Core Philosophy:** Business logic belongs in the Domain; Infrastructure should be replaceable.
+- 🛠️ **Current Focus:** Microservices orchestration, Event-Driven Architecture, and AI-assisted automation.
+- ☁️ **DevOps Mindset:** I believe in "You build it, you run it"—fluent in Docker, CI/CD, and Observability.
 
 ---
 
-## What I build
-- **Enterprise backends**
-  - Modular Monolith / Microservices
-  - BFF + IDP + API backends
-  - RBAC / Permissions / Audit / Logging / Traceability
-- **Financial / Core Banking style modules**
-  - Deposit / Facilities / Teller & Branch operations
-  - Workflow-driven processes and validations
-  - Oracle / SQL Server integration patterns
-- **Automation & AI-enhanced systems**
-  - Telegram bots, event-driven pipelines, job schedulers
-  - Speech-to-text and document generation workflows (Whisper.cpp + .NET)
+## 🛠️ Tech Stack & Toolbox
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages & Frameworks** | ![.NET](https://img.shields.io/badge/-.NET%208%2B-512bd4?logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) |
+| **Architecture** | `DDD` `CQRS` `Clean Architecture` `Event-Driven` `Modular Monolith` `Microservices` |
+| **Data Persistence** | ![SQL Server](https://img.shields.io/badge/-SQL%20Server-cc2927?logo=microsoftsqlserver&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169e1?logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-dc382d?logo=redis&logoColor=white) ![Oracle](https://img.shields.io/badge/-Oracle-f80000?logo=oracle&logoColor=white) |
+| **Messaging & Jobs** | ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-ff6600?logo=rabbitmq&logoColor=white) `Hangfire` `MassTransit` `n8n` |
+| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/-Docker-2496ed?logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-CI/CD-2088ff?logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-fcc624?logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white) |
 
 ---
 
-## Tech Stack
+## 🌟 Featured Projects
 
-### Backend
-![.NET](https://img.shields.io/badge/.NET-111?style=for-the-badge&logo=dotnet)
-![C#](https://img.shields.io/badge/C%23-111?style=for-the-badge&logo=csharp)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-111?style=for-the-badge&logo=dotnet)
-![EF Core](https://img.shields.io/badge/EF%20Core-111?style=for-the-badge&logo=dotnet)
-![REST](https://img.shields.io/badge/REST%20APIs-111?style=for-the-badge)
+### 🎙️ [Voice2Doc](https://github.com/erfanmosaddeghi/voice2doc)
+**The Intelligent Scribe:** An automated pipeline that transforms meeting audio into structured documentation.
+- **Tech:** .NET, Whisper.cpp, Telegram Bot API.
+- **Impact:** Automates hours of manual transcription into instant, AI-summarized PDFs.
 
-### Architecture
-![DDD](https://img.shields.io/badge/DDD-111?style=for-the-badge)
-![CQRS](https://img.shields.io/badge/CQRS-111?style=for-the-badge)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-111?style=for-the-badge)
-![Modular Monolith](https://img.shields.io/badge/Modular%20Monolith-111?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-111?style=for-the-badge)
-
-### Data
-![SQL Server](https://img.shields.io/badge/SQL%20Server-111?style=for-the-badge&logo=microsoftsqlserver)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql)
-![Oracle](https://img.shields.io/badge/Oracle-111?style=for-the-badge&logo=oracle)
-![Redis](https://img.shields.io/badge/Redis-111?style=for-the-badge&logo=redis)
-
-### Messaging & Background Jobs
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-111?style=for-the-badge&logo=rabbitmq)
-![Hangfire](https://img.shields.io/badge/Hangfire-111?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-111?style=for-the-badge&logo=n8n)
-
-### DevOps
-![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker)
-![Nginx](https://img.shields.io/badge/Nginx-111?style=for-the-badge&logo=nginx)
-![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-111?style=for-the-badge&logo=githubactions)
-
-### Also
-![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-111?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-111?style=for-the-badge&logo=flask)
-![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript)
-![Angular](https://img.shields.io/badge/Angular-111?style=for-the-badge&logo=angular)
+### 🏛️ Enterprise Identity Foundation
+A reusable, hardened security layer for enterprise applications.
+- **Features:** RBAC/ABAC, JWT SSO, Audit Logging, and Multi-tenant support.
+- **Focus:** Performance-minded middleware and high-security standards.
 
 ---
 
-## Featured Work (Highlights)
-- **Voice2Doc**
-  - Telegram bot for meeting voice → transcription → structured summary → PDF/Word exports
-  - .NET + Whisper.cpp + automation pipelines
-- **Enterprise Identity & Access**
-  - JWT / SSO-style flows, CurrentUser abstraction, roles/permissions, audit logs
-- **Modular Backend Foundations**
-  - SharedKernel approach, domain events, validation, error codes, consistent API contracts
-- **DevOps & Delivery**
-  - Dockerized services, reverse proxy with Nginx, CI/CD pipelines, deployment hygiene
-
----
-
-## Collaboration
-- Open to collaborating on **.NET backend**, **architecture**, **DDD/CQRS**, **DevOps**, and **automation** projects
-- If you have a challenging integration or performance bottleneck, I can help design and implement a clean solution
-
----
-
-## GitHub Stats
+## 📈 GitHub Statistics
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=erfanmosaddeghi&show_icons=true&theme=transparent" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfanmosaddeghi&layout=compact&theme=transparent" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erfanmosaddeghi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfanmosaddeghi&layout=compact&theme=tokyonight" />
 </div>
 
 ---
 
-## Contact
-- Website: https://erfanmosaddeghi.ir
-- Email: erfan.mosaddeghi@gmail.com
+## 🤝 Let's Connect!
+I’m always open to discussing **Software Architecture**, **Performance Optimization**, or **Open Source Collaboration**.
+
+- 🌐 **Personal Website:** [erfanmosaddeghi.ir](https://erfanmosaddeghi.ir)
+- 📧 **Email:** [erfan.mosaddeghi@gmail.com](mailto:erfan.mosaddeghi@gmail.com)
+- 💬 **Ask me about:** C#, DDD, and why your `Update` method probably shouldn't be in the Service layer! ;)
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+</div>
